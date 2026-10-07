@@ -1,9 +1,8 @@
 # nondyadic_laver_algebras_data
-Computational data for "Non-dyadic Laver algebras"
 
 This repository contains the computational data used for the numerical observations in the final section of the paper:
 
-Non-dyadic Laver algebras
+Non-dyadic Laver algebras,
 Juan P. Aguilera and Martina Iannella
 
 The data consist of the values of the period $\tau^n(1)$ of the first row of the finite Laver algebra defined on a set of cardinality $n$, for $n \leq 125{,}000$.
