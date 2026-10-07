@@ -1,6 +1,6 @@
 # nondyadic_laver_algebras_data
 
-This repository contains the computational data used for the numerical observations in the final section of the paper:
+This repository contains the computational data used for the numerical observations and figures in the final section of the paper:
 
 Non-dyadic Laver algebras,
 Juan P. Aguilera and Martina Iannella
@@ -14,5 +14,3 @@ $n$: the cardinality of the finite Laver algebra, i.e., the corresponding algebr
 $\tau^n(1)$: the period of the first row of the $n \times n$ table.
 
 The computations were performed using MATLAB on the servers of TU Wien.
-
-The data were used to produce the numerical observations and figures in the final section of the paper.
